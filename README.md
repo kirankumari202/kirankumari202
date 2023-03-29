@@ -1,4 +1,4 @@
-<img align=" center"  width="959" height="353"  src= "https://github.com/kirankumari202/kirankumari202/blob/main/github%20banner.png" >
+
 <h1 align="center">Hi 👋, I'm Kiran Kumari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
